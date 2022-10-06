@@ -17,10 +17,12 @@ c. Generate left series (i.e. used during Navaratri)
 5) Write program to display 1 to 100 on LCD as follows 
 ![image](https://user-images.githubusercontent.com/106819662/193674975-a0eecee7-9362-4c68-8bd0-61d2626ce17d.png)
 
+
 6) Write your name on LCD scroll left and scroll right 
 
 7) Write program to show clock on LCD as follows 
 ![image](https://user-images.githubusercontent.com/106819662/193675165-02d90b40-7124-4cf0-b01f-35b820284899.png)
+
 
 8) Display the string on LCD Ex.; “Hello World” 
 
