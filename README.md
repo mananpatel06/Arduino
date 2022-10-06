@@ -1,5 +1,5 @@
-# Ardunio
-This is Ardunio tutorial.
+# Arduino
+This is Arduino tutorial.
 
 Code:- https://collegekode.blogspot.com/
 
