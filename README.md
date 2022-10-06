@@ -3,8 +3,6 @@ This is Arduino tutorial.
 
 Code:- https://collegekode.blogspot.com/
 
-Here i am using online IDE Tinkercad . If you don't know what is tinkercad then refer my blog HERE or else you can use offline IDE also.
-
 1) Interface 8 LEDs with Arduino UNO (digital 0 to digital 7). Develop an Arduino sketch for following: 
 a. Toggle all LEDs continuously every 500 milliseconds. 
 b. Toggle even and odd LEDs continuously for 2 seconds. 
