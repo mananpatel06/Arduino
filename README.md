@@ -63,4 +63,5 @@ Display temperature on the LCD.If temperature is above 50 `C then sound the buzz
 18) Interface Potentiometer and servo motor with Arduino Uno. Develop an Arduino sketch to control angle of servo motor using potentiometer.
 
 19) Identify bugs and resolve it to fulfill following objective. Interface 3 LEDs and 4 SWICHES with Arduino. Develop a program that by pressing 1st switch it will ON LED1, by pressing 2nd switch it ON LED2 and same for 3rd switch and LED3. By pressing 4th switch it will reset (OFF) all LEDs.
+
 ![image](https://user-images.githubusercontent.com/106819662/193676215-8f88321f-d3e7-423e-8051-977c1881ff92.png)
