@@ -1,7 +1,7 @@
 # Arduino
 This is Arduino tutorial.
 
-Code:- https://collegekode.blogspot.com/
+Code:- https://collegekode.blogspot.com/search/label/Arduino
 
 1) Interface 8 LEDs with Arduino UNO (digital 0 to digital 7). Develop an Arduino sketch for following: 
 a. Toggle all LEDs continuously every 500 milliseconds. 
